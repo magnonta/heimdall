@@ -10,6 +10,6 @@
     "mongolab:sandbox",
     "heroku-postgresql:hobby-dev",
     "heroku-redis:hobby-dev",
-    "rabbitmq-bigwig:pipkin"
+    "cloudamqp:lemur"
   ]
 }
